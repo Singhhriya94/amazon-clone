@@ -95,6 +95,9 @@ body {
 .navcart{
     font-size: .85rem;
     font-weight: 700;
+} 
+.navcart p{
+    margin-top: 20px;
 }
 /** PANEL **/
 .panel{
@@ -136,8 +139,9 @@ body {
 
 
 }
-.boximage{
+.boximg{
     height: 300px;
+    background-size: cover;
     }
     .boxcontent{
         margin-left: 10px;
